@@ -43,3 +43,7 @@ Request:
 example, you need prometheus to all services. This logic can be added to any parser. Perhaps a minimal changes in the 
 parser / service code is required (add arguments for initialization, for example).
 * Instead of classic client, we separate logic and request.
+
+# Notice
+
+We use [implement](https://github.com/U-Company/python-clients) the same client for python
